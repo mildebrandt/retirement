@@ -1,0 +1,14 @@
+cash: 1234
+traditional: 1234
+roth: 1234
+stocks:
+  - name: vtsax
+    cost_basis: 1234
+    market_value: 2345
+bonds:
+  - name: vbtlx
+    cost_basis: 1234
+    market_value: 2345
+
+state: CA
+spending: 1234
