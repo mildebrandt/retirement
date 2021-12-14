@@ -1,0 +1,53 @@
+brackets:
+  federal:
+    married_filing_jointly:
+      - lower: 0.00
+        upper: 19900.00
+        rate: 0.10
+      - lower: 19901.00
+        upper: 81050.00
+        rate: 0.12
+      - lower: 81051.00
+        upper: 172750.00
+        rate: 0.22
+      - lower: 172751.00
+        upper: 329850.00
+        rate: 0.24
+      - lower: 329851.00
+        upper: 418850.00
+        rate: 0.32
+      - lower: 418851.00
+        upper: 628300.00
+        rate: 0.35
+      - lower: 628301.00
+        upper: 999999999999999999.00
+        rate: 0.37
+  california:
+    married_filing_jointly:
+      - lower: 0.00
+        upper: 18650.00
+        rate: 0.01
+      - lower: 18651.00
+        upper: 44214.00
+        rate: 0.02
+      - lower: 44215.00
+        upper: 69784.00
+        rate: 0.04
+      - lower: 69785.00
+        upper: 96870.00
+        rate: 0.06
+      - lower: 96871.00
+        upper: 122428.00
+        rate: 0.08
+      - lower: 122429.00
+        upper: 625372.00
+        rate: 0.093
+      - lower: 625373.00
+        upper: 750422.00
+        rate: 0.103
+      - lower: 750433.00
+        upper: 1250738.00
+        rate: 0.113
+      - lower: 1250739.00
+        upper: 999999999999999999.00
+        rate: 0.123
